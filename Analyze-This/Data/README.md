@@ -1,0 +1,2 @@
+- train -> training data
+- test -> test data
